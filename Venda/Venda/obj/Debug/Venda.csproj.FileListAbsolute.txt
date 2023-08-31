@@ -1,0 +1,20 @@
+C:\Users\DaN\source\repos\Venda\Venda\bin\Debug\Venda.exe.config
+C:\Users\DaN\source\repos\Venda\Venda\bin\Debug\Venda.exe
+C:\Users\DaN\source\repos\Venda\Venda\bin\Debug\Venda.pdb
+C:\Users\DaN\source\repos\Venda\Venda\obj\Debug\Venda.csprojAssemblyReference.cache
+C:\Users\DaN\source\repos\Venda\Venda\obj\Debug\Venda.frmVenda.resources
+C:\Users\DaN\source\repos\Venda\Venda\obj\Debug\Venda.Properties.Resources.resources
+C:\Users\DaN\source\repos\Venda\Venda\obj\Debug\Venda.csproj.GenerateResource.cache
+C:\Users\DaN\source\repos\Venda\Venda\obj\Debug\Venda.csproj.CoreCompileInputs.cache
+C:\Users\DaN\source\repos\Venda\Venda\obj\Debug\Venda.exe
+C:\Users\DaN\source\repos\Venda\Venda\obj\Debug\Venda.pdb
+C:\Users\Richard\Desktop\Teste\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\Venda\Venda\bin\Debug\Venda.exe.config
+C:\Users\Richard\Desktop\Teste\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\Venda\Venda\bin\Debug\Venda.exe
+C:\Users\Richard\Desktop\Teste\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\Venda\Venda\bin\Debug\Venda.pdb
+C:\Users\Richard\Desktop\Teste\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\Venda\Venda\obj\Debug\Venda.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\Teste\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\Venda\Venda\obj\Debug\Venda.frmVenda.resources
+C:\Users\Richard\Desktop\Teste\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\Venda\Venda\obj\Debug\Venda.Properties.Resources.resources
+C:\Users\Richard\Desktop\Teste\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\Venda\Venda\obj\Debug\Venda.csproj.GenerateResource.cache
+C:\Users\Richard\Desktop\Teste\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\Venda\Venda\obj\Debug\Venda.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Teste\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\Venda\Venda\obj\Debug\Venda.exe
+C:\Users\Richard\Desktop\Teste\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\Venda\Venda\obj\Debug\Venda.pdb

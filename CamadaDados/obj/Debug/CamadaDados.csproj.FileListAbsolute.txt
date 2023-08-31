@@ -1,0 +1,17 @@
+C:\Sistema Comercio\SysComercio\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Sistema Comercio\SysComercio\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Sistema Comercio\SysComercio\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+C:\Sistema Comercio\SysComercio\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Sistema Comercio\SysComercio\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaDados\obj\Debug\CamadaDados.csprojAssemblyReference.cache
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaDados\obj\Debug\CamadaDados.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaDados\obj\Debug\CamadaDados.pdb

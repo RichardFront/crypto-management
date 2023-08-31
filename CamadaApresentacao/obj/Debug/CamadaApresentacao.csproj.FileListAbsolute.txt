@@ -1,0 +1,52 @@
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojResolveAssemblyReference.cache
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.frmCategoria.resources
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.Cache
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Sistema Comercio\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojAssemblyReference.cache
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.frmCategoria.resources
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\richa\Desktop\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.frmCategoria.resources
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\Richard\Desktop\Faculdade\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.frmCategoria.resources
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\Richard\Desktop\Sistema DESKTOP\Arquivos\Sistema Comercio Completo\SysComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
